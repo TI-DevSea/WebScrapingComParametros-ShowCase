@@ -17,4 +17,5 @@ Script para automatizar o a captura de informações online, preenchendo os dado
 
 ## Demonstração
 
-[![alt text](https://vimeo.com/1025589499?share=copy#t=0)
+[![alt text](https://i.imgur.com/nOFdFuI.png)](https://vimeo.com/1025589499?share=copy#t=0)
+
